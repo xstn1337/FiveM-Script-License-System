@@ -1,8 +1,6 @@
-# FiveM-License-system
-FiveM Simple IP License system in PHP
+# FiveM Simple PHP License system
 
-usage in lua:
-
+Usage in Lua:
 https://docs.fivem.net/docs/scripting-reference/runtimes/lua/functions/PerformHttpRequest/
 
-I recommend obfuscate it
+Recommend obfuscator
