@@ -1,8 +1,8 @@
 PerformHttpRequest("http://yourhost/auth.php", function (errorCode, resultData, resultHeaders)
   if resultData then
-    print("succes message")
+    print("succes")
   else
-    print("failed message")
+    print("fail")
     Wait(5000)
     os.exit()
   end
